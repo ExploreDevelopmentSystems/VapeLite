@@ -1,4 +1,4 @@
-# Custom License for [Your Project Name]
+# License
 
 ## Permissions
 
